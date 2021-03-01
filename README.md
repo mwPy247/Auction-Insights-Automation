@@ -18,6 +18,6 @@ Google Ads provides detailed custom reports for comparing how often you win bets
 - Done!
 
 # Questions, Bugs, etc.
-If you encounter any problems while setting-up your script feel free to contact me. If you find any bugs I would be happy if you let me know.
+If you encounter any problems while setting-up the script feel free to contact me. If you find any bugs I would be happy if you let me know.
 
 Good Luck with your keyword auctions!
