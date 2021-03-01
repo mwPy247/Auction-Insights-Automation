@@ -11,7 +11,7 @@ Unfortunately, up to this point these reports can only be accessed from within t
 2. The script scans all the Google Sheets files from your folder and consolidates them in one Google Sheet file, where you can add additional marketing data (for example CPC- and CPA-values) as you like. 
 3. You connect your BI-Tool with the Google Sheet and display your data.
 
-
+##### Overview: Diagram
 The diagram below summarizes how the script works:
 
 ![diagram (2)](https://user-images.githubusercontent.com/69138900/109516707-c7cb0e80-7aa8-11eb-9f16-8ac15a18de8d.jpg)
