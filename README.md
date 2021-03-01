@@ -6,7 +6,7 @@ Google Ads provides detailed custom reports for comparing how often you win bets
 
 ## Prerequisites
 - A Google Account. In particular: Access to Google Sheets, Google Drive and the Google Scriptmanager.
-- A Sheets Template (access here).
+- A [Sheets Template](https://docs.google.com/spreadsheets/d/1tE4iAT9wNRYPmf5za7IYr-LiGHYBecBqTY0UvPGVpyo/edit?usp=sharing).
 - A Folder in Google Drive.
 
 ## Set-up
