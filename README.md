@@ -1,4 +1,3 @@
-
 # Auction-Insights-Automation
 A script that automates Google Ads auction insights reports using the Google Sheets and Google Drive API's for use in any BI tool (DataStudio, Tableau, Power BI,...). Written in JavaScript.
 
@@ -8,7 +7,7 @@ Google Ads provides detailed custom reports for comparing how often you win bets
 ## How it works
 The diagram below shows how the script works. *First*, the data is exported automatically from Google Ads to Google Drive. This is accomplished by an automatic export function provided by Google Ads. This function can be set-up such that the data is exported in regular time intervals. It is saved in a custom folder you specify manually as you set-up your Script and is a Google Sheets file itself. You may export as many Google Sheets files to your folder as you like. *Second*, all the Google Sheets files from your folder are consolidated in one Google Sheet file. *Third*, you connect you BI-Tool with the Google Sheet and display your data.
 
-   ![diagram](https://user-images.githubusercontent.com/69138900/109514389-45414f80-7aa6-11eb-96ea-9c59cf2fb7a6.jpg)
+![diagram (1)](https://user-images.githubusercontent.com/69138900/109515639-9998ff00-7aa7-11eb-82d6-147323853dbd.jpg)
 
 ## Prerequisites
 - A Google Account. In particular: Access to Google Sheets, Google Drive and the Google Scriptmanager.
