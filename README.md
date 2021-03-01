@@ -11,7 +11,7 @@ Google Ads provides detailed custom reports for comparing how often you win bets
 
 # Set-up
 - Setup the automatic export planning of your Auction Insights Reports inside the Google Ads Interface.
-- Setup your Google Sheets Template and copy/paste within the Scriptmanager.
+- Setup your Google Sheets Template and copy/paste script.txt to the respective Scriptmanager.
 - Initialize the Script (see the Documentation of the Script)
 - Run the Scriptmanager in regular intervals to automate the flow of data to your sheets-file.
 - Connect your sheets-file to your BI-tool of choice.
